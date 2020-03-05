@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e11935a.chunk.css",
-    "main.js": "/static/js/main.04ae34d1.chunk.js",
-    "main.js.map": "/static/js/main.04ae34d1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6960b511.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6960b511.js.map",
-    "static/js/2.44a65775.chunk.js": "/static/js/2.44a65775.chunk.js",
-    "static/js/2.44a65775.chunk.js.map": "/static/js/2.44a65775.chunk.js.map",
+    "main.css": "/static/css/main.21e26784.chunk.css",
+    "main.js": "/static/js/main.6a843369.chunk.js",
+    "main.js.map": "/static/js/main.6a843369.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5da5d147.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5da5d147.js.map",
+    "static/js/2.7a2c7f13.chunk.js": "/static/js/2.7a2c7f13.chunk.js",
+    "static/js/2.7a2c7f13.chunk.js.map": "/static/js/2.7a2c7f13.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e75962315079ca7ab23cc02475b93446.js": "/precache-manifest.e75962315079ca7ab23cc02475b93446.js",
+    "precache-manifest.d5101a17103fe3e83ff7f6bfe0f519c4.js": "/precache-manifest.d5101a17103fe3e83ff7f6bfe0f519c4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1e11935a.chunk.css.map": "/static/css/main.1e11935a.chunk.css.map",
-    "static/js/2.44a65775.chunk.js.LICENSE.txt": "/static/js/2.44a65775.chunk.js.LICENSE.txt",
-    "static/js/main.04ae34d1.chunk.js.LICENSE.txt": "/static/js/main.04ae34d1.chunk.js.LICENSE.txt",
+    "static/css/main.21e26784.chunk.css.map": "/static/css/main.21e26784.chunk.css.map",
+    "static/js/2.7a2c7f13.chunk.js.LICENSE.txt": "/static/js/2.7a2c7f13.chunk.js.LICENSE.txt",
+    "static/js/main.6a843369.chunk.js.LICENSE.txt": "/static/js/main.6a843369.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
@@ -28,9 +28,9 @@
     "static/media/principal.png": "/static/media/principal.2bf06320.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6960b511.js",
-    "static/js/2.44a65775.chunk.js",
-    "static/css/main.1e11935a.chunk.css",
-    "static/js/main.04ae34d1.chunk.js"
+    "static/js/runtime-main.5da5d147.js",
+    "static/js/2.7a2c7f13.chunk.js",
+    "static/css/main.21e26784.chunk.css",
+    "static/js/main.6a843369.chunk.js"
   ]
 }
