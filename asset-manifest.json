@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.21e26784.chunk.css",
-    "main.js": "/static/js/main.6a843369.chunk.js",
-    "main.js.map": "/static/js/main.6a843369.chunk.js.map",
+    "main.css": "/static/css/main.1e11935a.chunk.css",
+    "main.js": "/static/js/main.f1396a8e.chunk.js",
+    "main.js.map": "/static/js/main.f1396a8e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5da5d147.js",
     "runtime-main.js.map": "/static/js/runtime-main.5da5d147.js.map",
-    "static/js/2.7a2c7f13.chunk.js": "/static/js/2.7a2c7f13.chunk.js",
-    "static/js/2.7a2c7f13.chunk.js.map": "/static/js/2.7a2c7f13.chunk.js.map",
+    "static/js/2.280ed19c.chunk.js": "/static/js/2.280ed19c.chunk.js",
+    "static/js/2.280ed19c.chunk.js.map": "/static/js/2.280ed19c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d5101a17103fe3e83ff7f6bfe0f519c4.js": "/precache-manifest.d5101a17103fe3e83ff7f6bfe0f519c4.js",
+    "precache-manifest.06306f73a00256b8d66ba399dba20606.js": "/precache-manifest.06306f73a00256b8d66ba399dba20606.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.21e26784.chunk.css.map": "/static/css/main.21e26784.chunk.css.map",
-    "static/js/2.7a2c7f13.chunk.js.LICENSE.txt": "/static/js/2.7a2c7f13.chunk.js.LICENSE.txt",
-    "static/js/main.6a843369.chunk.js.LICENSE.txt": "/static/js/main.6a843369.chunk.js.LICENSE.txt",
+    "static/css/main.1e11935a.chunk.css.map": "/static/css/main.1e11935a.chunk.css.map",
+    "static/js/2.280ed19c.chunk.js.LICENSE.txt": "/static/js/2.280ed19c.chunk.js.LICENSE.txt",
+    "static/js/main.f1396a8e.chunk.js.LICENSE.txt": "/static/js/main.f1396a8e.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
@@ -22,6 +22,7 @@
     "static/media/erik-lucatero-2.jpg": "/static/media/erik-lucatero-2.2051e0e8.jpg",
     "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.f26c34bb.jpg",
     "static/media/fog-low.png": "/static/media/fog-low.7812184c.png",
+    "static/media/imagen.png": "/static/media/imagen.e558a6f3.png",
     "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.76ff47ae.jpg",
     "static/media/login-image.jpg": "/static/media/login-image.be9fa468.jpg",
     "static/media/paper-kit.scss": "/static/media/nucleo-icons.f32ed5ad.eot",
@@ -29,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5da5d147.js",
-    "static/js/2.7a2c7f13.chunk.js",
-    "static/css/main.21e26784.chunk.css",
-    "static/js/main.6a843369.chunk.js"
+    "static/js/2.280ed19c.chunk.js",
+    "static/css/main.1e11935a.chunk.css",
+    "static/js/main.f1396a8e.chunk.js"
   ]
 }
