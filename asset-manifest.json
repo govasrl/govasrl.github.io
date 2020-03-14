@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac4a3ba4.chunk.css",
-    "main.js": "/static/js/main.1b7c3642.chunk.js",
-    "main.js.map": "/static/js/main.1b7c3642.chunk.js.map",
+    "main.css": "/static/css/main.cf0e0641.chunk.css",
+    "main.js": "/static/js/main.08f8530e.chunk.js",
+    "main.js.map": "/static/js/main.08f8530e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5da5d147.js",
     "runtime-main.js.map": "/static/js/runtime-main.5da5d147.js.map",
-    "static/js/2.26a34dcd.chunk.js": "/static/js/2.26a34dcd.chunk.js",
-    "static/js/2.26a34dcd.chunk.js.map": "/static/js/2.26a34dcd.chunk.js.map",
+    "static/js/2.7c4a32e1.chunk.js": "/static/js/2.7c4a32e1.chunk.js",
+    "static/js/2.7c4a32e1.chunk.js.map": "/static/js/2.7c4a32e1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dbecfa29cdda54bfeb18a61bbc3d4a5a.js": "/precache-manifest.dbecfa29cdda54bfeb18a61bbc3d4a5a.js",
+    "precache-manifest.68cbe67a8fbcd311411d99c7e6deebc4.js": "/precache-manifest.68cbe67a8fbcd311411d99c7e6deebc4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ac4a3ba4.chunk.css.map": "/static/css/main.ac4a3ba4.chunk.css.map",
-    "static/js/2.26a34dcd.chunk.js.LICENSE.txt": "/static/js/2.26a34dcd.chunk.js.LICENSE.txt",
+    "static/css/main.cf0e0641.chunk.css.map": "/static/css/main.cf0e0641.chunk.css.map",
+    "static/js/2.7c4a32e1.chunk.js.LICENSE.txt": "/static/js/2.7c4a32e1.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.7c5a9fc7.jpg",
     "static/media/2.jpg": "/static/media/2.b486a7d8.jpg",
     "static/media/3.jpg": "/static/media/3.5e5acc5c.jpg",
@@ -19,16 +19,18 @@
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/clouds.png": "/static/media/clouds.61c4e000.png",
     "static/media/diagnostico_computarizado.jpg": "/static/media/diagnostico_computarizado.077377cf.jpg",
+    "static/media/electricidad.jpg": "/static/media/electricidad.42d6572d.jpg",
     "static/media/fog-low.png": "/static/media/fog-low.7812184c.png",
     "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.76ff47ae.jpg",
     "static/media/mecanica_general.jpg": "/static/media/mecanica_general.e1c069ac.jpg",
     "static/media/principal.png": "/static/media/principal.2bf06320.png",
+    "static/media/torneria.jpg": "/static/media/torneria.05d44bca.jpg",
     "static/media/transmision.jpg": "/static/media/transmision.a53ee012.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5da5d147.js",
-    "static/js/2.26a34dcd.chunk.js",
-    "static/css/main.ac4a3ba4.chunk.css",
-    "static/js/main.1b7c3642.chunk.js"
+    "static/js/2.7c4a32e1.chunk.js",
+    "static/css/main.cf0e0641.chunk.css",
+    "static/js/main.08f8530e.chunk.js"
   ]
 }

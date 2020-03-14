@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf792a7f93f5b37949a27ee24e785efd",
+    "revision": "b4d180a399536819d75d6b619a24e6ac",
     "url": "/index.html"
   },
   {
-    "revision": "66469761b13f8e381ac1",
-    "url": "/static/css/main.ac4a3ba4.chunk.css"
+    "revision": "89097066d516afef8282",
+    "url": "/static/css/main.cf0e0641.chunk.css"
   },
   {
-    "revision": "4dabf3b696f25e2bba3e",
-    "url": "/static/js/2.26a34dcd.chunk.js"
+    "revision": "1e9440d0f1f81f937761",
+    "url": "/static/js/2.7c4a32e1.chunk.js"
   },
   {
     "revision": "f1889b2eae3a2ddaf39d3210d1dfd806",
-    "url": "/static/js/2.26a34dcd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7c4a32e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66469761b13f8e381ac1",
-    "url": "/static/js/main.1b7c3642.chunk.js"
+    "revision": "89097066d516afef8282",
+    "url": "/static/js/main.08f8530e.chunk.js"
   },
   {
     "revision": "c4f303ff010f9b7d8a41",
@@ -68,6 +68,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/diagnostico_computarizado.077377cf.jpg"
   },
   {
+    "revision": "42d6572d51ec59bb8bbb4a2eae52bb32",
+    "url": "/static/media/electricidad.42d6572d.jpg"
+  },
+  {
+    "revision": "bb5348f61392f9acee2938396492c455",
+    "url": "/static/media/electricidad.bb5348f6.svg"
+  },
+  {
+    "revision": "489c43daa24f4f961343d997040d5044",
+    "url": "/static/media/es21x21.489c43da.svg"
+  },
+  {
     "revision": "7812184c3710d9623c684956fe048ddd",
     "url": "/static/media/fog-low.7812184c.png"
   },
@@ -94,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f2abb6fb460daa04ee67147c1c807d0a",
     "url": "/static/media/mercedes.f2abb6fb.svg"
+  },
+  {
+    "revision": "c3c5d0d784c4942cfc327dc1df6fd28b",
+    "url": "/static/media/nosotros.c3c5d0d7.svg"
   },
   {
     "revision": "48ac036da7c7923266266f63746fc5f1",
@@ -152,6 +168,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/timing-belt.6d584386.svg"
   },
   {
+    "revision": "05d44bca3ed44b225a1579c72ddb3264",
+    "url": "/static/media/torneria.05d44bca.jpg"
+  },
+  {
+    "revision": "0899b7dd2d3e27a235a02355c87167f5",
+    "url": "/static/media/torneria.0899b7dd.svg"
+  },
+  {
     "revision": "f0d998947fd0c9ccef6ee3a543aa93b7",
     "url": "/static/media/traffic-cone.f0d99894.svg"
   },
@@ -162,6 +186,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa4bcb76e976b719ff37d7be1aa9b0b4",
     "url": "/static/media/transmision.fa4bcb76.svg"
+  },
+  {
+    "revision": "b02afd1c5d667a0df2904b6db3815264",
+    "url": "/static/media/us21x21.b02afd1c.svg"
   },
   {
     "revision": "11c9dd854f17af3f1b6bffe4506b9f13",
