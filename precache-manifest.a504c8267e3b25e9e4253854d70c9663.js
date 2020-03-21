@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a85a02b631406fe50db311e8fc5c8e17",
+    "revision": "fe93e569ad4ff1bdcd9d1b44c09904b5",
     "url": "/index.html"
   },
   {
-    "revision": "6ead20de5ae928be1950",
-    "url": "/static/css/main.427142b3.chunk.css"
+    "revision": "e7d4e94a819906393498",
+    "url": "/static/css/main.a49cf788.chunk.css"
   },
   {
     "revision": "64abd381ecddd8feaca6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2639a547.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ead20de5ae928be1950",
-    "url": "/static/js/main.b6d0aadb.chunk.js"
+    "revision": "e7d4e94a819906393498",
+    "url": "/static/js/main.3bc989f5.chunk.js"
   },
   {
     "revision": "c4f303ff010f9b7d8a41",
@@ -118,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f2abb6fb460daa04ee67147c1c807d0a",
     "url": "/static/media/mercedes.f2abb6fb.svg"
+  },
+  {
+    "revision": "1dce44a2ed7647c3cc34c41726cec6d1",
+    "url": "/static/media/mercedes994x969.1dce44a2.svg"
   },
   {
     "revision": "a1213a5eb9ae7f153afd8909a68cb2c5",
