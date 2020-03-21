@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe93e569ad4ff1bdcd9d1b44c09904b5",
+    "revision": "7dd421add81ac3cd127bc4485aacc15c",
     "url": "/index.html"
   },
   {
-    "revision": "e7d4e94a819906393498",
-    "url": "/static/css/main.a49cf788.chunk.css"
+    "revision": "a0777f07304cca19abc3",
+    "url": "/static/css/main.c768fd11.chunk.css"
   },
   {
     "revision": "64abd381ecddd8feaca6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2639a547.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7d4e94a819906393498",
-    "url": "/static/js/main.3bc989f5.chunk.js"
+    "revision": "a0777f07304cca19abc3",
+    "url": "/static/js/main.21848d15.chunk.js"
   },
   {
     "revision": "c4f303ff010f9b7d8a41",
@@ -108,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kompressor.2abfbe29.svg"
   },
   {
+    "revision": "79a7780fa2b64f701bb3f6bec1c44ba8",
+    "url": "/static/media/kompressor500x500.79a7780f.svg"
+  },
+  {
     "revision": "e1c069ac9b9790ab645b295e7de3445b",
     "url": "/static/media/mecanica_general.e1c069ac.jpg"
   },
@@ -120,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mercedes.f2abb6fb.svg"
   },
   {
-    "revision": "1dce44a2ed7647c3cc34c41726cec6d1",
-    "url": "/static/media/mercedes994x969.1dce44a2.svg"
+    "revision": "052174b9db27d0bd21834508ca99f2c3",
+    "url": "/static/media/mercedes994x969.052174b9.svg"
   },
   {
     "revision": "a1213a5eb9ae7f153afd8909a68cb2c5",
